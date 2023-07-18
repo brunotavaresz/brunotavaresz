@@ -21,4 +21,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;">
 </div>
 
+## My Social Media 📱
+<p>
+
+<div align="center">
+  <p align="left">
+<a href="https://twitter.com/brunotavaresz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunotavaresz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22241670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22241670" height="30" width="40" /></a>
+<a href="https://instagram.com/brunotavaresz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunotavaresz_" height="30" width="40" /></a>
+<a href="https://fb.com/tavares.bruno04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tavares.bruno04" height="30" width="40" /></a>
+<a href="https://codepen.io/bruno-tavares-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bruno-tavares-the-solid" height="30" width="40" /></a>
+</p>
+  
+  
+</div>  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D0A6E&height=120&section=footer"/>
+
