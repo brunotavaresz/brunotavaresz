@@ -26,7 +26,7 @@
 
 <div align="center">
   <p align="left">
-<a href="https://twitter.com/brunotavaresz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunotavaresz" height="30" width="40" /></a>
+<a href="https://twitter.com/brunotavaresz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunotavaresz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22241670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22241670" height="30" width="40" /></a>
 <a href="https://instagram.com/brunotavaresz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunotavaresz_" height="30" width="40" /></a>
 <a href="https://fb.com/tavares.bruno04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tavares.bruno04" height="30" width="40" /></a>
