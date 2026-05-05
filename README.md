@@ -12,7 +12,7 @@
 
 - 🎓 MSc in **Informatics Engineering** @ University of Aveiro
 - 🔬 Research grant @ **IEETA** — Gaze Estimation
-- 📍 Viana do Castelo / Aveiro, Portugal
+- 📍 Viana do Castelo/ Aveiro, Portugal
 
 ---
 
@@ -38,6 +38,7 @@
 <div align="center">
 
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunotavaresz&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)](https://github.com/brunotavaresz)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotavaresz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/brunotavaresz)
 
 </div>
@@ -48,7 +49,7 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brunotavaresz_)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/brunotavaresz_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunotavaresz_)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22241670)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bruno-tavares-the-solid)
