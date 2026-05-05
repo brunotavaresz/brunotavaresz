@@ -12,8 +12,7 @@
 
 - 🎓 MSc in **Informatics Engineering** @ University of Aveiro
 - 🔬 Research grant @ **IEETA** — Gaze Estimation
-- 📍 Viana do Castelo, Portugal
-- 💬 Ask me about **Computer Vision, Python, React**
+- 📍 Viana do Castelo / Aveiro, Portugal
 
 ---
 
