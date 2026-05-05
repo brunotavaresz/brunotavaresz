@@ -12,7 +12,7 @@
 
 - 🎓 MSc in **Informatics Engineering** @ University of Aveiro
 - 🔬 Research grant @ **IEETA** — Gaze Estimation
-- 📍 Viana do Castelo/ Aveiro, Portugal
+- 📍 Viana do Castelo / Aveiro, Portugal
 
 ---
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunotavaresz&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)](https://github.com/brunotavaresz)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunotavaresz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotavaresz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/brunotavaresz)
 
