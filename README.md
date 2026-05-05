@@ -1,40 +1,59 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D0A6E&height=200&section=header&text=&fontSize=90" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3D35BA&size=35&center=true&vCenter=true&width=1000&lines=Hello👋;My+name+is+Bruno+Tavares+Meixedo;I'm+a+computer+engineering+student;At+University+Aveiro;Welcome+to+my+profile+👨🏻‍💻)](https://git.io/typing-svg)
-
-
-## My Stats 📈
-<div align="center">
-  
-  [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunotavaresz&show_icons=true&theme=holi&count_private=false)](https://github.com/brunotavaresz)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotavarez&layout=compact&theme=holi)](https://github.com/brunotavaresz)
-  
-</div>  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D0A6E&height=180&section=header&text=Bruno%20Tavares%20Meixedo&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=MSc%20Informatics%20Engineering%20%C2%B7%20University%20of%20Aveiro&descColor=bbbbbb&descSize=14&descAlignY=78" />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=7B68EE&size=22&center=true&vCenter=true&width=700&lines=Hey+there!+👋;MSc+student+%40+University+of+Aveiro;Informatics+Engineering;Always+learning+something+new...)](https://git.io/typing-svg)
+
 </div>
 
-## My Social Media 📱
-<p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 MSc in **Informatics Engineering** @ University of Aveiro
+- 🔬 Research grant @ **IEETA** — Gaze Estimation
+- 📍 Viana do Castelo / Aveiro, Portugal
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <p align="left">
-<a href="https://twitter.com/brunotavaresz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunotavaresz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22241670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22241670" height="30" width="40" /></a>
-<a href="https://instagram.com/brunotavaresz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunotavaresz_" height="30" width="40" /></a>
-<a href="https://fb.com/tavares.bruno04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tavares.bruno04" height="30" width="40" /></a>
-<a href="https://codepen.io/bruno-tavares-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bruno-tavares-the-solid" height="30" width="40" /></a>
-</p>
-  
-  
-</div>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D0A6E&height=120&section=footer"/>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunotavaresz&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)](https://github.com/brunotavaresz)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotavaresz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/brunotavaresz)
+
+</div>
+
+---
+
+### 🌐 Connect with me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brunotavaresz_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunotavaresz_)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22241670)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bruno-tavares-the-solid)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/tavares.bruno04)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D0A6E&height=100&section=footer"/>
